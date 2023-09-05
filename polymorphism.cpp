@@ -67,7 +67,7 @@ public:
     };
     void Work()
     {
-        cout << name << " is an expert in "<<StackWorking << endl;
+        cout << name << " is an expert in " << StackWorking << endl;
     };
 };
 
@@ -110,7 +110,7 @@ public:
     };
     void Work()
     {
-        cout << name << " is best fit for this "<<rank <<" role."<< endl;
+        cout << name << " is best fit for this " << rank << " role." << endl;
     }
 };
 
